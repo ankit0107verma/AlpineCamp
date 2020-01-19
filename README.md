@@ -13,9 +13,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running
 
-Run the webiste locally on your machine by either node app.js or npx nodemon after installing nodemon from package.json
+* Run the webiste locally on your machine by either node app.js or npx nodemon after installing nodemon from package.json
+* After running the above command in bash simply visit (https://localhost:8070/) to preview this website on your computer
 
-### coding style 
+### Coding style 
 
 I have used various coding styles used in ecma 6 with some basic old school techinques which is easy to understand and maintain the entire codebase.
 
